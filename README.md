@@ -43,3 +43,6 @@ npm install
 ```bash
 node server.js
 ```
+
+## Usage
+Launch the application by serving `index.html` through a local live server or by opening the file directly in your browser.
